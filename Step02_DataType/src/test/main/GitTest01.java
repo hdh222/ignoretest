@@ -7,6 +7,9 @@ public class GitTest01 {
 		System.out.println("branch 테스트 중이야");
 		
 		System.out.println("branch 연습중이야");
+
+		System.out.println("gitTest2 update");
+
 	}
 
 }
