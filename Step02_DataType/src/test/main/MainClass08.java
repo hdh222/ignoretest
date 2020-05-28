@@ -6,6 +6,8 @@ public class MainClass08 {
 		// TODO Auto-generated method stub
 		System.out.println("Git test");
 		System.out.println("변경1");
+		System.out.println("변경2");
+		
 	}
 
 }
