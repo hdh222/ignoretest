@@ -7,7 +7,7 @@ public class MainClass08 {
 		System.out.println("Git test");
 		System.out.println("변경1");
 		System.out.println("변경2");
-		
+		System.out.println("변경3");
 	}
 
 }
